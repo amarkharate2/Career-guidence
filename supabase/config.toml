@@ -1,0 +1,7 @@
+project_id = "tmqkflravvomgekjxvfu"
+
+[functions.career-chat]
+verify_jwt = false
+
+[functions.career-suggest]
+verify_jwt = false
